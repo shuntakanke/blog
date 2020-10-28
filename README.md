@@ -30,9 +30,9 @@ method-override-https://www.npmjs.com/package/method-override
 
 ーこんな感じ
 
-<form method="POST" action="/resource?_method=DELETE">
+<!-- <form method="POST" action="/resource?_method=DELETE">
   <button type="submit">Delete resource</button>
-</form>
+</form> -->
 
 
 
