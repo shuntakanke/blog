@@ -48,6 +48,12 @@ method-override-https://www.npmjs.com/package/method-override
 
 slugify-https://www.npmjs.com/package/slugify
 
+mongodbのmodelでslugにtitleの値を使う処理をした時に/や;:.,といった値が入るのを防いだり、全部小文字にしてくれたりする。
+
+
+
+
+
 
 
 
